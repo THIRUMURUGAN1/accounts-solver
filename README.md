@@ -1,0 +1,2 @@
+# accounts-solver
+The account solver is a python project which is used for a accounting purpose business. The data that the user is prompted with choice of accounting calculations to select, based on the selection of user will give the input using GUI components and calculations were done based on the formulas and results will be display to the user. the computer results are taken for others  operations too.
